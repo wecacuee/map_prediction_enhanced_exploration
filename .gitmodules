@@ -21,7 +21,7 @@
 [submodule "libfloorplan"]
 	path = libfloorplan
 	url = https://github.com/wecacuee/libfloorplan.git
-	branch = tf2_ros_migration
+	branch = origin
 [submodule "hector_navigation"]
 	path = hector_navigation
 	url = https://github.com/wecacuee/hector_navigation.git
