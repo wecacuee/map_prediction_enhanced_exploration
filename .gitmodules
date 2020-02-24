@@ -1,6 +1,6 @@
 [submodule "stage_frontier_datagen"]
 	path = stage_frontier_datagen
-	url = https://github.com/rakeshshrestha31/stage_frontier_datagen.git
+	url = https://github.com/wecacuee/stage_frontier_datagen.git
 	branch = origin
 [submodule "online_map_completion_msgs"]
 	path = online_map_completion_msgs
@@ -20,11 +20,11 @@
 	branch = master
 [submodule "libfloorplan"]
 	path = libfloorplan
-	url = https://github.com/rakeshshrestha31/libfloorplan.git
+	url = https://github.com/wecacuee/libfloorplan.git
 	branch = master
 [submodule "hector_navigation"]
 	path = hector_navigation
-	url = https://github.com/rakeshshrestha31/hector_navigation.git
+	url = https://github.com/wecacuee/hector_navigation.git
 	branch = master
 [submodule "path-smoothing-ros"]
 	path = path-smoothing-ros
