@@ -1,7 +1,7 @@
 [submodule "stage_frontier_datagen"]
 	path = stage_frontier_datagen
 	url = https://github.com/wecacuee/stage_frontier_datagen.git
-	branch = origin
+	branch = tf2_ros_migration
 [submodule "online_map_completion_msgs"]
 	path = online_map_completion_msgs
 	url = https://github.com/rakeshshrestha31/online_map_completion_msgs.git
@@ -21,11 +21,11 @@
 [submodule "libfloorplan"]
 	path = libfloorplan
 	url = https://github.com/wecacuee/libfloorplan.git
-	branch = master
+	branch = tf2_ros_migration
 [submodule "hector_navigation"]
 	path = hector_navigation
 	url = https://github.com/wecacuee/hector_navigation.git
-	branch = master
+	branch = tf2_ros_migration
 [submodule "path-smoothing-ros"]
 	path = path-smoothing-ros
 	url = https://github.com/rakeshshrestha31/path-smoothing-ros.git
